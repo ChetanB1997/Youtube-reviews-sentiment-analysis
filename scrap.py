@@ -5,7 +5,6 @@ import time
 import pandas as pd
 
 
-
 def ScrapComment(url):
     option = webdriver.ChromeOptions()     #use to provide chrome drive option like setting path,adding arguments, extensions.etc
     option.add_argument("--headless")      #to run browser in background without opeing the window
@@ -40,12 +39,12 @@ def ScrapComment(url):
     comment_div = soup.select("#content #content-text")
     comment_list = [x.text for x in comment_div]
     #print(title, comment_list)
-    dict1={'comments':comment_list}
-    df= pd.DataFrame(dict1)
-    print(df)
+    dict1={'Comment':comment_list}
+    comments_df= pd.DataFrame(dict1)
+    #print(df)
+    return comments_df
+
 
 if __name__ == "__main__":
-
-    urls = "https://www.youtube.com/watch?v=mBcBoGhFndY"
+    ScrapComment()
     
-    ScrapComment(urls)

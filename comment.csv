@@ -1,0 +1,186 @@
+,Comment
+0,we're definitely not tired of the AI videos. Great as always
+1,"It's time for a ai driven Javascript framework that runs on the edge
+
+And be sure not to mix stuff up, a js driven ai Framework, would essentially be the apocalypse"
+2,Not tired of AI content at all. This is amazing. Thank you!
+3,"Please keep making these videos. They are non-stop, but so is the pace of AI right now, so they're the only thing helping me feel like I'm staying current."
+4,"Doesn't matter what the topic, JS somehow always gets involved lol"
+5,Your content constantly impresses. As a programmer and an educator myself I'm amazed how you do so much and do it well.
+6,"This is by far, one of the best videos you ever made. Keep us updated !!
+You channel could become the new tech news reporter in video format. Thanks for the good work"
+7,"This can be also done, using CLIP model. And indexing vectors with KNN type in opensearch and using cosine similarity to find similar images.  With the CLIP model you can search images by text and image both as input."
+8,"MORE AI videos, mate! Your videos are always the most informative AND entertaining on the subject"
+9,Would love a video comparing the different vector databases. Why did you choose this one over Pinecone?
+10,"Made it look so simple, I'm definitely trying this out this evening, thanks Jeff!"
+11,Not even a little bit tired of the AI videos - if anything I'd love to see more tutorials
+12,"Don't stop the AI vids.
+Your last video introduced me to vector databases which I used to easily solve a big, hairy, ugly business problem for my employer.
+Now they can make a lot more money and I get a pat on the back."
+13,"if the ai videos help us make our jobs easier, then keep'em coming"
+14,"There's absolutely nothing for you to apologise for. This is another great video. Please, keep 'em coming as always."
+15,"Definitely not sick of the AI videos. In fact any direction you feel like going, go hard …because it’s the quality that’s talking, not  the surface content.
+
+thank you."
+16,"Great video! Could you make a video about how we can crawl data on a knowledge base, transfer to vector databas and search with it?"
+17,This is super cool! Like how easy it is to do those tasks nowadays
+18,This would solve one of my more interesting problems I have in a future project. Very cool!. This stuff is becoming widely available right when I need it.
+19,"I'd like you to take a look at the project JARVIS from Microsoft, which essentially combines many LLM's together to create something similar to chatgpt but for literally everything"
+20,You’re right.. there are loads of ai videos out at the moment but this one is actually useful!
+21,Not tired of AI. AI is the future. Please make more AI videos.
+22,"It's actually a good topic, storing and processing data is still most important thing"
+23,don't stop with the ai news. young aspiring developers need to know as much as possible to use this info to our advantage
+24,Keep posting videos about AI. This thing will change every single aspect in our lives.
+25,"Got a kinda good idea for them, hopefully will get some time to play with them on work sometime soon. Good video as always!"
+26,"Yeah, vector databases have been around for quite a while, but the availability of open source vectorizer models made vector search more of a viable use case, so we're seeing more and more proper databases with easy to handle clients and all. Unfortunately, the biggest issue with vector search is not the database side of things. They're mostly all the same, relying on the same compression and distance computation algorithms. The big issue is vectorization. For some use cases like text or image similarity you can use huggingface models as-is. But for more business specific things, you'd have to train your own model and that is tough AF."
+27,just imagine Jeff life without Javascript
+28,Very helpful and straightforward ｡⁠◕⁠‿⁠◕⁠｡
+29,"Damn, I had started to really rely on Fireship for my AI news!"
+30,With the super AI we have these days it would be quite an easy step to implement just removing watermarks!
+31,"Hey guys, he mentioned that these images will be converted to a numerical array (like a vector), to find similarities between different images. Do any of you know how exactly that works? What can you compare in a vector to another vector? Thanks."
+32,More of those please.
+33,Wow this looks amazing. Can anyone tell if there is something similar to this but local search? I want an efficient low cpu low memory consuming solution which can identify a face in an image and group/search similar photos with the photos being local instead of searching on the internet. You can say something similar to google photos and if possible highlights feature as well which may include ai as well.
+34,"Considering storage resources, will that scale if you convert the image to a base64 string?"
+35,Love this kind of video. It gave me a lot of ideas
+36,hey fireship what font do you use for your videos? it looks pretty clean
+37,la versión de node mínima requerida es 16.0.0 
+38,Keep the AI videos comingggg
+39,this is insanely good for AI Art
+40,Not tired of the AI content
+41,"Now you just have to make it scrape the entire internet for every single image thats ever been uploaded, download them, vectorize them along with metadata and such, and then store them on your own server!"
+42,"Realizing you could use this to reverse Stable Diffusion. You feed it a prompt, it generates an image, and then your reverse image search returns the images it -stole- ""learned from"" the most to create its output."
+43,"Can you do an episode about Medusa, the open source e-commerce js framework?"
+44,Amazing work.
+45,what if you took a text input and ran it through something like dalle to make it use a text input (which gets turned into an image under the hood)
+46,"You should've used Rektor for your database.
+I already invested in it. It's the next big thing."
+47,Please do a version of this for text similarity search
+48,"I'm trying to pick a vector database at the moment. Does anyone have any reason why you would pick, say, Pinecone over Weviate, or vice-versa?"
+49,"Yay, finally some docker on fireship "
+50,"After seeing the video on vector databases on the main channel, I just knew this was what was next."
+51,I'm not tired of the AI videos. Maybe a new channel: Fireship AI
+52,I appreciate the slightly slower pace of this video.
+53,"I am tired of the mainstream AI videos, your videos are always unique and intriguing."
+54,Please make a tutorial for vector DB and do the same with mongoDB at the same time
+55,Man how did you learn all that? I mean how did you start your journey. Please make a video about your journey it would be very inspirational for many.
+56,"i was building a meme search engine for fun and this killed it,  i might apply this implementation"
+57,"Hello, i have veen interested in the thing that you don't love the builder pattern in many of your videos, can you explain why it is bad in your opinion, please?"
+58,I wonder what kind of image similiarity algorithms can we use? And I assume this is completely free to use locally? I don't see any restrictions anywhere right now or I have missed it.
+59,awesome tutorial !!!!!!
+60,loved it! <3
+61,"Any math wizards I'm wondering a thing since yesterday. Is ""vector databases"" actually ""tensor databases""?"
+62,Now my goal is creating a JS framework with AI
+63,"Questions questions... 
+How does this scale over 10 Gb of images with  ~200 Kb files? How about using small thumbnails instead of full sized images to encode search, with link to the real ones?"
+64,Nice one!
+65,How do I make those visualisations that show the embedding stored on weaviate
+66,"this guy knows what he is talking about. Its like GPT but for images instead of tokenized letters, or words, or phrases, but is not generative. and does not have transforms xD but.. you get the point."
+67,"Could this be used to build a ""hotdog or not hotdog"" matcher?"
+68,"Loved this video, the the test image got me ROFL"
+69,Top tier content found here.
+70,"Vectors are so 2022 Q4. Ive come up with trillion dollar concept. Text File Data. You will store all of your data in a single file where where each col will be separated by something like a tab code or comma and a row will be separated by a new line. Beta names are Tabbed Text Files or Comma Text Files. 
+Reply if you’re ready to invest."
+71,"I'm building a search engine right now!! What the heck lmfao  although I'm using a NLP to process and index pages, and although I should use a vector database, I didn't friggin know about them until three days ago.  Time for a rewrite I guess "
+72,you have sample repo for this? :) thanks
+73,Man i friggin love fireship
+74,"nice video, I got an idea for my next project."
+75,"With your videos, you have established three major skills for AI devs: First AI APIs, then Prompt engineering and now Vector databases."
+76,"I say report on the AI content where it makes sense; if it takes over all the discussion and it's LEGITIMATE, that's just how it is. It's how it's always worked. I remember when ""AJAX"" took over every discussion back in the 2000s. Nowadays it's not special --  it's just how things are done. Same with the internet at large. The internet and programming are practically inseparable nowadays.  If some folks can't cope when the next big wave hits, that's on them. They'll pay the price down the line for being luddites instead of learning with the rest of us. :P"
+77,next time: I made AI build a superior javascript framework
+78,More ai vids pls!
+79,It sounds like you're actually using AI to voice this video
+80,"After the vector DB videos from today, I was actually looking at weaviate to start playing with it, Now I have what I need to start the next web7.0 thing"
+81,"The javascript frameworks were not what drew me to your content. It was the memes and the ""you can't miss this"" in tech. Just saying.
+This here is interesting because databases, something traditionally boring, now get some attention due to this vector data and querying it.
+Querying high dimensional vector spaces isn't trivial, if there's lots of data and you still need it to be fast. There is some seriously advanced theory and tech in there."
+82,did you use ai for voice generation?
+83,"Moar AI videos, por favor!"
+84,how do i build a chatbot based on recursively scraped documentation websites with embeddings and vector databases?
+85,Then use CLIP to generate descriptions of the images you have and you've just generated your own map of your images without manual labour
+86,It fells like a normal neural network with extra memory usage
+87,Why didn't you use elastic search?
+88,Don't stop the ai hype. Don't let the denialists stop you.
+89,"This is so cool, oh my god"
+90,So new tools for coming out for AI is as equivalent to new javascript frameworks coming out. We are doomed!
+91,JS churn -> AI churn -> panic attacks -> depression -> nirvana
+92,Finally good AI video where we can learn something real and stop listening about stupid people how AI will kill humanity
+93,I still don't get it. If we use a neural net vectorizer doesn't it mean that we lose data? (i.e. it's not a lossless format)
+94,i um... kind of a beginner but never had trouble understanding your vids... this one was way beyond my lvl lol
+95,"Noooo enough JS, more AI please!!"
+96,"for as much as you talk about gpt, im surprised you didnt just get gpt to generate the entire thing"
+97,Need more AI video
+98,wouldnt be easier than just build a neural net that remove water mark instead ? there is an existing site that basically remove tiktok water mark.
+99,Stop blowing my mind dude!! Too much power in our hands
+100,"Did you just b64'd different formats of images without converting them to a certain file format and then send them to the vector db? Congratz you just uploaded Spanish, English and French sentences to your db and queried if the English sentence will be the nearest match with the English sentence..."
+101,Really appreciated mention of not sponsored*
+102,Soon the own image boorus are going to be fantastic
+103,"Did I overlook something, or does the heavy lifting and real magic happen in the Img2Vec NN and not in the vector database?"
+104,I'm always just getting the same input image back as the result. What could be wrong?
+105,Consider a 10-20% slower pace for these more in depth tutorial videos
+106,"I'm going to say it, Beyond Fireship > Fireship."
+107,Only I feel like this video was made by AI? or I'm already that paranoic?
+108,Definitely tired of ai content but the videos still go hard
+109,As if databases weren't confusing enough
+110,that's how facial recognition works. thank god for chatgpt to help me read debug errors.
+111,Where to host it?
+112,maybe I can use this to find your copilot meme
+113,The other worst thing after AI is javascript frameworks .
+114,1:09 AI takes place
+115,AI voice fireship sounds great
+116,"Oof... I can follow this, but ill have no odea what I'm actually doing.
+
+Still, this was a very good way to get your point across."
+117,It is inevitable - someone will write AIs in JavaScript. I don't make the rules.
+118,00:29 does Leo have David Duke as a profile pic? lol
+119,man i wanna do it
+120,I wonder if this will render dbs like Elasticsearch obsolete
+121,"Yes, I did pause to view and read each meme"
+122,Javascript good job
+123,"Uploading images to the db, db bloat pretty quickly."
+124,thank you
+125,Can u make a video on pnpm
+126,"""Image search engine which is better than google"" = Good
+
+""Image search engine which is better than google but made using javascript"" = WTF"
+127,Seems Valid.
+128,reminds me of Aviato
+129,Nextjs thinking video
+130,"guys this voice is ai 
+I found a website that creates voices from texts 
+if you notice the voice has not any feeling in it and currently I don't understand most of the contents like before"
+131,So javascript is truly a S tier language
+132,Tell me if you actually understand what is a vector database because I am a cs student and it doesn't make sense
+133,"Love your content, although I'm still going to be a piece of shit and recommend using a de-esser for your mic input."
+134,"Cliënt schema getter do?
+Every day JavaScript is one step closer to becoming Java"
+135,
+136,Why aren’t you using pnpm
+137,"Well, ""you"" built it"
+138,rip my ram after running this
+139,"Too many words thrown at me 
+How do I even compete"
+140,You don't like builderpatterns? 
+141,Everybody that says vector database are scam never dealt word embedding and playing around with word2vec cosine similarities
+142,I really needed to slow down this video
+143,Just to counterbalance comments to the contrary: I am indeed sick of AI videos.
+144,Anyone who thinks vector databases are a scam should just give up and wait for their universal basic income
+145,Noooo the ai content is the best
+146,"People who tired of AI videos are just your OG followers, if you rely on them, you'll have nice little cult like followers so your choice little niche boomer followers or huge base of followers who love your content even they don't know shit about programming and just in it for AI"
+147,AI voice?
+148,Okay why is your voice not your voice?
+149,"You know
+I'm tired of all this AI stuff
+Maybe we should go back to the weekly javascript framework cycle"
+150,Holy sh..
+151,rektor db superior
+152,"Remember, guys, Web 3.0? XDXD Such a scam and useless piece of tech XDXD"
+153,Javascript for life!
+154,ily
+155,"Ah, so you're sponsored by JS?"
+156,do you sleep ?
+157,Super sick of the AI videos
+158,First
+159,Not first
+160,readFileSync
+161,1 st is not a thing
+162,Please don't recommend docker desktop for windows. It's not at all the same power and elegance as on Linux. DDFW is actually a virtual machine
