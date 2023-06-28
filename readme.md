@@ -9,6 +9,8 @@ This Python project performs sentiment analysis on YouTube video comments using 
 - Performs sentiment analysis on the preprocessed comments using a machine learning model.
 - Generates visualizations to illustrate the sentiment distribution of the comments.
 - Provides summary statistics and insights about the sentiment of the comments.
+- *FastAPI Integration**: Our project is built using the FastAPI web framework.
+
 
 ## Prerequisites
 
@@ -31,7 +33,7 @@ This Python project performs sentiment analysis on YouTube video comments using 
 
 3.The script will scrape the comments, perform sentiment analysis, and generate visualizations and summary statistics.
 
-4.The sentiment analysis results will be displayed in the console and saved in the output directory.
+4.The sentiment analysis results will be displayed in the console and saved in the output directoryand displayed on web app.
 
 ##Result
 
