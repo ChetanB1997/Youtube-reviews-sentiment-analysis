@@ -34,4 +34,4 @@ This Python project performs sentiment analysis on YouTube video comments using 
 4.The sentiment analysis results will be displayed in the console and saved in the output directory.
 
 ##Result
-![sentiment score](result\saved_image.jpg)
+![sentiment score](result/saved_image.jpg)
