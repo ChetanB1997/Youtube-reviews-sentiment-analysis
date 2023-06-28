@@ -1,53 +1,28 @@
 from fastapi import FastAPI
 import requests
-    
+import uvicorn
 from fastapi.responses import FileResponse
+import os 
 
-#app = FastAPI()
-
-
-# @app.get("/")
-# async def root():
-#     return {"message": "Welcome to our channel. please like, share and subscribe"}
-
-
-# @app.post("/process_youtube_link")
-# async def process_youtube_link(link: str):
-#     return {"message": "Link processed successfully"}
-
-
-
-
-# file_path = "F:\Project\youtube comment sentiment analysis\dog_image.jpg"
-
-
-# @app.get("/image")
-# async def image():
-#     return FileResponse(file_path)
-
-#####
-import requests
 app = FastAPI()
 
-BASE_URL = "http://localhost:8000"
+@app.get("/")
+async def root():
+    return {"message": "Welcome to our channel. please like, share and subscribe"}
 
 
-def process_url(url: str):
-    endpoint = BASE_URL + "/process_url"
-    data = {"url": url}
-    headers = {"Content-Type": "application/json"}
-    response = requests.post(endpoint, json=data, headers=headers)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        return {"message": "Failed to process URL"}
+@app.post("/process_youtube_link")
+async def process_youtube_link(link: str):
+    file_path = "data/url.csv"  # Path to the file where you want to save the URL
+    with open(file_path, "w") as file:
+        file.write(link)
+    return {"message": "Link processed successfully"}
+    
+@app.get("/image")
+async def image():
+    return FileResponse('result/saved_image.jpg')
+
+if __name__ == '__main__':
+    uvicorn.run()
 
 
-def main():
-    url = input("Enter URL: ")
-    result = process_url(url)
-    print(result)
-
-
-if __name__ == "__main__":
-    main()

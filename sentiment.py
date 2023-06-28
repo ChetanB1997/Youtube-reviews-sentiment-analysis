@@ -138,8 +138,14 @@ def sampling(processed_data):
     cv = CountVectorizer(max_features=1500)
     Xdata = cv.fit_transform(corpus).toarray()
     Ydata = final_data.iloc[:, -1].values
-    print(final_data)
-    final_data.to_csv('finaldata.csv')
+    # print(final_data)
+    
+    path = 'data/final_result.csv'
+    # with open(path, "w") as file:
+    #     file.write(final_data)
+    final_data.to_csv(path,  index=False)
+    # # path = 'data/f_data.csv'
+       
     return Xdata,Ydata
 
 if __name__ == "__main__":

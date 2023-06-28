@@ -13,6 +13,7 @@ def model(Xdata,Ydata):
     model.fit(X_train, y_train)
         
     y_pred = model.predict(X_test)
+    print(y_test,y_pred)
     cm = confusion_matrix(y_test, y_pred)
     
     nb_score = accuracy_score(y_test, y_pred)

@@ -41,6 +41,12 @@ def ScrapComment(url):
     #print(title, comment_list)
     dict1={'Comment':comment_list}
     comments_df= pd.DataFrame(dict1)
+    
+    path = 'data/scrap_comments.csv'
+    # with open(path, "w") as file:
+    #     file.write(comments_df)
+    comments_df.to_csv(path, index=False)
+        
     #print(df)
     return comments_df
 
